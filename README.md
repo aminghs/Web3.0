@@ -1,0 +1,3 @@
+# Web3.0
+
+It's a practical project to become familiar with Web3, blockchain and Solidity. I am still working on it...
